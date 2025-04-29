@@ -10,3 +10,4 @@
 - 🟨 JavaScript
 - 🎨 HTML & CSS/SCSS
 - 🟩 Node.JS
+- 🔺 Java
