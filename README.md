@@ -1,6 +1,6 @@
 # Dattele
 
-🎮 Passionate Web Developer & Web Game Creator
+🎮 Web Developer & Web Game Creator
 
 ---
 
